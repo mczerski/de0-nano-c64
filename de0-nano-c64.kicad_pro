@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.200001,
-          "height": 4.0,
-          "width": 4.0
+          "drill": 0.0,
+          "height": 2.8,
+          "width": 0.86
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -56,7 +56,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "extra_footprint|143192500|103652000|00000000-0000-0000-0000-000061a5acf3|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
