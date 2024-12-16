@@ -4,10 +4,9 @@ This board adds necessary interfaces for Commodore 64 implementation from [this]
 
 # Photos
 
-![](snapshots/de0-nano-c64-bottom1.png)
-![](snapshots/de0-nano-c64-bottom2.png)
-![](snapshots/de0-nano-c64-bottom3.png)
-![](snapshots/de0-nano-c64-bottom4.png)
-![](snapshots/de0-nano-c64-front1.png)
-![](snapshots/de0-nano-c64-front2.png)
-![](snapshots/de0-nano-c64-front3.png)
+![](snapshots/de0-nano-c64.png)
+![](snapshots/de0-nano-c64-1.png)
+![](snapshots/de0-nano-c64-2.png)
+![](snapshots/de0-nano-c64-3.png)
+![](snapshots/de0-nano-c64-4.png)
+![](snapshots/de0-nano-c64-5.png)
